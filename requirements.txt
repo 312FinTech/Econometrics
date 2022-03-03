@@ -6,4 +6,4 @@ pandas_datareader
 statsmodels
 sklearn
 pmdarima
-pylab
+pylab-sdk
