@@ -10,5 +10,6 @@ pylab-sdk
 fredapi
 python-dotenv
 prophet
+plotly
 notebook
 ipywidgets
