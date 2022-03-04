@@ -12,5 +12,4 @@ conda install pandas -y
 conda install -c anaconda seaborn -y
 yes | pip install pandas-datareader
 yes | pip install pmdarima
-yes | pip install pylab-sdk
 ```
