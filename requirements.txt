@@ -6,7 +6,7 @@ pandas_datareader
 statsmodels
 sklearn
 pmdarima
-pylab
+pylab-sdk
 fredapi
 python-dotenv
 prophet
