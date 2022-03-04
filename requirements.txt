@@ -13,3 +13,4 @@ prophet
 plotly
 notebook
 ipywidgets
+PyPDF2
