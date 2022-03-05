@@ -9,8 +9,10 @@ pmdarima
 pylab-sdk
 fredapi
 python-dotenv
-prophet
 plotly
 notebook
 ipywidgets
 PyPDF2
+httpstan
+pystan==2.19.1.1
+fbprophet

@@ -8,9 +8,8 @@ Econometrics is the use of statistical methods using quantitative data to develo
 ```
 conda create --name 312fintechenv python=3.8.8 -y
 conda activate 312fintechenv
-conda install pandas -y
-conda install -c anaconda seaborn -y
-yes | pip install pandas-datareader
-yes | pip install pmdarima
-yes | pip install pylab-sdk
+conda install -c anaconda ipykernel -y
+ipython kernel install --user --name=312fintechenv
+pip install -r requirements.txt
+conda install -c conda-forge prophet -y
 ```
